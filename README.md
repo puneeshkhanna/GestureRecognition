@@ -24,3 +24,9 @@ Note that all images in a particular video subfolder have the same dimensions bu
 Each row of the CSV file represents one video and contains three main pieces of information - the name of the subfolder containing the 30 images of the video, the name of the gesture and the numeric label (between 0-4) of the video. 
 
 Your task is to train a model on the 'train' folder which performs well on the 'val' folder as well.
+
+## Kaggle Link
+https://www.kaggle.com/puneeshk/gesture-recognition/
+
+## Note
+Update the path of dataset based upon your environment
