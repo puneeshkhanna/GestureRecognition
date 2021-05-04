@@ -29,5 +29,6 @@ Your task is to train a model on the 'train' folder which performs well on the '
 https://www.kaggle.com/puneeshk/gesture-recognition/
 
 ## Note
-Update the path of dataset based upon your environment
+Update the path of dataset based upon your environment.
+
 I had to also disable eager execution otherwise training was slow on GPU.
